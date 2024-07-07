@@ -1,0 +1,7 @@
+/cmake-build-debug/
+/.idea/.gitignore
+/.idea/arduino_projects.iml
+/CMakeLists.txt
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/vcs.xml
