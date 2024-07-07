@@ -18,6 +18,7 @@ void setup() {
 
   // Optionally, you can unmount LittleFS after formatting
   LittleFS.end();
+  delay(10000);
   
   // End the sketch
   ESP.restart(); // Restart ESP8266 to apply formatting
